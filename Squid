@@ -208,7 +208,6 @@ end)
 
 PunchReach.MouseButton1Down:connect(function()
 
-    -- Credits: https://v3rmillion.net/member.php?action=profile&uid=1594530
 
     while wait() do
         pcall(function()
